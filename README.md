@@ -8,6 +8,6 @@ Download this repo and instal as a wordpress plugin, activate
 Edit role to show the verified icon
 
 $icon_roles = array( <br>
-        'administrator',
-	      'editor',
+        'administrator', <br>
+	      'editor', <br>
 
